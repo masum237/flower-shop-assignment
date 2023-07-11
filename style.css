@@ -240,7 +240,7 @@
 }
 .letest-deal-section {
   height: 350px;
-  background-image: url("/Flower-Asset/Rectangle\ 9.png");
+  background-image: url("./Flower-Asset/Rectangle\ 9.png");
   background-size: cover;
   display: flex;
   justify-content: center;
